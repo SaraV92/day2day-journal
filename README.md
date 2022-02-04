@@ -1,1 +1,1 @@
-# day2day-journal
+# DAY2DAY Daily Journal
