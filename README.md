@@ -12,7 +12,7 @@ This Blog is based on Node.js, EJS and MongoDB technologies.
 
 ## How to create a blog post
 
-![image](https://user-images.githubusercontent.com/54445396/152640496-be9aaa69-13cf-4fc4-8357-3820be7c336b.png)
+![image](https://user-images.githubusercontent.com/54445396/152640557-827bc8b8-7e3c-408e-b7ca-4e0d5339344c.png)
 
 ## How to install it
 
